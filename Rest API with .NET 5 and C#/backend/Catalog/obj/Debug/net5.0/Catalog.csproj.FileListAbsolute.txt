@@ -1,0 +1,66 @@
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\appsettings.Development.json
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\appsettings.json
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\Catalog.exe
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\Catalog.deps.json
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\Catalog.runtimeconfig.json
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\Catalog.runtimeconfig.dev.json
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\Catalog.dll
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\Catalog.pdb
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.csproj.AssemblyReference.cache
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.AssemblyInfoInputs.cache
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.AssemblyInfo.cs
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.csproj.CoreCompileInputs.cache
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\scopedcss\bundle\Catalog.styles.css
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Manifest.cache
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Pack.cache
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\staticwebassets\msbuild.Catalog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\staticwebassets\msbuild.build.Catalog.props
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Catalog.props
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Catalog.props
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.csproj.CopyComplete
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.dll
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\refint\Catalog.dll
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.pdb
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+C:\CV Projects\Issue - Bug Tracker\Issue-Bug-Tracker\backend\Catalog\obj\Debug\net5.0\ref\Catalog.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\appsettings.Development.json
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\appsettings.json
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Catalog.exe
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Catalog.deps.json
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Catalog.runtimeconfig.json
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Catalog.runtimeconfig.dev.json
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Catalog.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Catalog.pdb
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.csproj.AssemblyReference.cache
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.AssemblyInfoInputs.cache
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.AssemblyInfo.cs
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.csproj.CoreCompileInputs.cache
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\scopedcss\bundle\Catalog.styles.css
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Manifest.cache
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Pack.cache
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\staticwebassets\msbuild.Catalog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\staticwebassets\msbuild.build.Catalog.props
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Catalog.props
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Catalog.props
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.csproj.CopyComplete
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\refint\Catalog.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.pdb
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\ref\Catalog.dll
