@@ -64,3 +64,16 @@ C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Re
 C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.pdb
 C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
 C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\obj\Debug\net5.0\ref\Catalog.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\DnsClient.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\SharpCompress.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\Snappier.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\ZstdSharp.dll
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\CV Projects\Issue - Bug Tracker\Github software projects\Software-Projects\Rest API with .NET 5 and C#\backend\Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
