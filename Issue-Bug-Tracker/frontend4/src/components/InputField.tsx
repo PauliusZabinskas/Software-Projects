@@ -1,39 +1,36 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
-/* eslint-disable @typescript-eslint/no-explicit-any */
-import React, { useRef } from 'react';
+import React, { useRef } from "react";
 import "./styles.css";
 
-
-interface Props {
+interface props {
   todo: string;
-  setTodo: any;
+  setTodo: React.Dispatch<React.SetStateAction<string>>;
   handleAdd: (e: React.FormEvent) => void;
 }
 
-
-const InpurField = ({ todo, setTodo, handleAdd }: Props) => {
-
-  const inputRef = useRef < HTMLInputElement > (null);
+const InputFeild: React.FC<props> = ({ todo, setTodo, handleAdd }) => {
+  const inputRef = useRef<HTMLInputElement>(null);
 
   return (
-    <form action="" className='input' onSubmit={(e) => {
-      handleAdd(e);
-      inputRef.current?.blur();
-    }}>
+    <form
+      className="input"
+      onSubmit={(e) => {
+        handleAdd(e);
+        inputRef.current?.blur();
+      }}
+    >
       <input
-        ref={inputRef}
-        type='input'
-        placeholder='Enter a task'
-        className='input__box'
+        type="text"
+        placeholder="Enter a Todo"
         value={todo}
-        onChange={
-          (e) => setTodo(e.target.value)
-        }>
-
-      </input>
-      <button className='input_submit' type='submit'>Go</button>
+        ref={inputRef}
+        onChange={(e) => setTodo(e.target.value)}
+        className="input__box"
+      />
+      <button type="submit" className="input_submit">
+        GO
+      </button>
     </form>
-  )
-}
+  );
+};
 
-export default InpurField;
+export default InputFeild;
