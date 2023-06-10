@@ -33,6 +33,7 @@
     color: white;
     transition: 0.2s all;
     box-shadow: 0 0 10px black;
+    align-items: center;
   }
   
   .input_submit:hover {
@@ -93,3 +94,13 @@
       width: 100%;
     }
   }
+
+  .scroll-container {
+    overflow: scroll;
+    border: 5px solid black;
+    height: 800px;
+  }
+
+  
+
+  
